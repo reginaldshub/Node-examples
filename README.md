@@ -1,7 +1,7 @@
 # Node-examples
 Some simple snippets
 
-##nodeMailer Project
+## NodeMailer Project
 1) $ npm install
 2) Open server.js and configure your email client.
 3) $ npm start
